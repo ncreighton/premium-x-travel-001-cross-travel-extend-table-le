@@ -1,0 +1,2 @@
+# premium-x-travel-001-cross-travel-extend-table-le
+Tired of manually recalculating your cross-travel offsets every time you extend your worktable? This Notion hub eliminates guesswork and keeps your craft measurements precise.  It centralizes all your cross-travel distances, table length variations, and extension settings in one database. No more scribbled notes or lost measurements — just instant
